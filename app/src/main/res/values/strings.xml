@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aviasales</string>
+    <string-array name="sities_array">
+        <item>Москва</item>
+        <item>Иркутск</item>
+        <item>Владивосток</item>
+        <item>Новосибирск</item>
+        <item>Днепропетровск</item>
+    </string-array>
+    <string name="from_label">Откуда</string>
+    <string name="to_label">Куда</string>
+    <string name="head">Заказать билеты</string>
+
+    <string name="date">Даты</string>
+    <string name="date_from_hint">С</string>
+    <string name="date_to_hint">До</string>
+
+    <string name="adult">Взрослые</string>
+    <string name="young">Дети</string>
+    <string name="babies">Младенцы</string>
+</resources>
